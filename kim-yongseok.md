@@ -10,7 +10,7 @@ ICD: Z89
 
 “The absence of one hand could not stop his music.
 Nicholas McCarthy performs Piano Concerto for the Left Hand using only his left hand, transforming human pain and determination into a deep and radiant resonance.”[In one of the film's most memorable scenes](https://www.youtube.com/watch?v=P-8n2CpergQ&list=RDP-8n2CpergQ&start_radio=1&t=130s)
-"<img width="370" height="462" alt="kim-yongseok" src="https://github.com/user-attachments/assets/c9d6fa46-750e-47ef-807b-927be6ea9f50" alt="Sublimation" />
+<img src="./kim-yongseok.png" alt="Sublimation" style="width:25%;" />
 
 # M. Ravel Piano Concerto in D Major for the left hand
 
