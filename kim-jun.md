@@ -5,9 +5,8 @@ Genre: Film
 Disease: OCD,EatingDisorder
 ICD: F42,F50
 ---  
-https://youtu.be/EqrRVKJcN7I?si=6ib8clSK5ekOr9I7
-
 <img src="./kim-jun.png" alt="Black Swan psychological analysis and Swan Lake music interpretation" style="width:25%;" />
+https://youtu.be/EqrRVKJcN7I?si=6ib8clSK5ekOr9I7
 
 # BlackSwan
 
