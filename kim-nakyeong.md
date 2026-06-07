@@ -4,6 +4,10 @@ Year: 2004
 Genre: Film
 Disease: Dementia
 ICD: G30
+Creator: Nick Cassavetes
+Music: Main Theme
+Composer: Aaron Zigman
+Type: Romance
 ---
 
 # The Notebook
