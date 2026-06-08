@@ -44,3 +44,5 @@ In this film, music serves as a crucial element in directly portraying the prota
 CHARLIE BEAN WORKS-OUR LOVE IS!
 I chose this song because I want to give comfort to young people who have experienced, and will continue to experience, sadness and hardship in their lives.
 I firmly believe that every trial has an end, and that at the end of every hardship, I will become a better version of myself. Through this song, I hope to leave a message of hope and encouragement for those who are struggling.
+
+https://www.youtube.com/watch?v=_KTq7UWA9AI&list=RD_KTq7UWA9AI&start_radio=1
