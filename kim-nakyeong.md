@@ -38,14 +38,14 @@ In the film, dementia functions not merely as an illness but as a central force 
 
 
 
-내 장례식에서 연주되길 희망하는 음악 : Lauv - Never Not
+# 내 장례식에서 연주되길 희망하는 음악 : Lauv - Never Not
 음악을 들을 때 가사를 중요시하는 편인데,
 이 곡에 있는 가사의 일부가 남겨진 사람들한테 하고싶은 말이다.
 'For as long as I live and as long as I love I will never not think about you'
 '내가 살아있는 동안 그리고 사랑하는 동안 너를 생각하지 않을 수 없어'
 장례식에 와주는 사람들은 나를 소중히 여긴 사람들일테고, 나 역시 그들을 소중히 여겼을 거라 믿기 때문에 살아가는 동안 너를 생각하며 살았다고 말해주고 싶다.
 
-Music I hope to play at my funeral: Lauv - Never Not
+# Music I hope to play at my funeral: Lauv - Never Not
 I tend to value lyrics when I listen to music,
 Part of the lyrics in this song is what I want to say to the people left behind.
 'For as long as I live and as long as I love I will never not think about you'
