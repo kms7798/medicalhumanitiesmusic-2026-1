@@ -22,6 +22,8 @@ Throughout music history, death and suffering have often been treated as tragedi
 
 클래식 음악 역사에서 죽음과 고통은 흔히 '정복하거나 초월해야 할 대상' 혹은 깊은 슬픔으로만 여겨져 왔습니다. 그러나 3주차 아서 클라인만의 질환서사, 13주차 에드워드 사이드의 말년 양식, 14주차 음악 죽음학 관점은 제게 죽음을 다르게 바라볼 시선을 주었습니다. 이 시선은 《Arrival of the Birds》가 절망 속 지성의 비상을 노래하듯, 고통과 죽음을 슬픔이라는 완고한 규범적 서사에 고정하지 않고 마주하게 만듭니다. 슬픔이라는 완고한 규범적 서사에 균열을 내는 이 음악을 통해 조문객들이 눈물 대신 삶과 죽음의 의미를 유쾌하고 편안하게 성찰하는 치유적 기예를 경험하기 바랍니다.
 
+<img width="352" height="192" alt="사랑에대한모든것" src="https://github.com/user-attachments/assets/d0445c9d-1fc5-4663-8d0f-dee9a9f98060" />
+
 # Music I Hope Will Be Played at My Funeral 
 
 I hope [Lee Chan-hyuk's 'Funeral Hope'](https://youtu.be/iIn_1_XDuBM?si=Aa6Zv-ZRUlWvemWj) will be played at my funeral. This song refuses to reduce death to mere sorrow or a tragedy to be controlled; instead, it allows us to confront human finitude with wit and lightheartedness. It redefines the absolute limitation of death as a lighthearted conclusion and another meaningful chapter of life. By defying the rigid emotional norms of funerals, I hope this melody functions as a therapeutic art (*Techne*) that breaks through the conventional narrative of grief, allowing my guests to quietly and comfortably contemplate the profound meaning of life and death.
@@ -29,5 +31,3 @@ I hope [Lee Chan-hyuk's 'Funeral Hope'](https://youtu.be/iIn_1_XDuBM?si=Aa6Zv-ZR
 # 장례식에서 연주되길 희망하는 음악
 
 제 장례식에서 연주되길 희망하는 음악은 [이찬혁 - 장례희망](https://youtu.be/iIn_1_XDuBM?si=Aa6Zv-ZRUlWvemWj)입니다. 이 곡은 죽음을 비극으로 통제하거나 슬퍼하기보다, 인생이라는 축제의 유쾌한 마무리이자 또 다른 의미의 서사로 재정의하는 발상의 전환을 보여줍니다. 앞선 영화 속 음악이 신체의 제약을 정신의 자유로 승화시켰듯, <장례희망> 역시 죽음이라는 절대적 한계를 삶의 유쾌한 마무리로 비틀어버립니다. 제 장례식에 찾아온 조문객들이 무거운 눈물 대신, 이 음악이 만들어내는 슬픔의 균열 속에서 삶과 죽음의 가치를 유쾌하고 편안하게 성찰하는 치유적 기예를 경험하기를 소망합니다.
-
-<img width="352" height="192" alt="사랑에대한모든것" src="https://github.com/user-attachments/assets/d0445c9d-1fc5-4663-8d0f-dee9a9f98060" />
