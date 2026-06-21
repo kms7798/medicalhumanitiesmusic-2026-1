@@ -34,6 +34,7 @@ In the end, this DB connects the contents of normality, auditoryism, disease nar
 
 In the process of this connection, I also came up with a new question. If AI and auxiliary technologies further complement human physical limitations in the future, what can be defined as 'human things' in art? Even in the era when technology expands and helps human senses, the core of art will not be just a completion or function but an experience of human vulnerability, memory, mourning, and empathy. Therefore, future art should not go in the direction of removing or hiding obstacles and diseases, but in the direction of acknowledging new ways of expression created by various bodies and senses. In this respect, both "Imagination" and "Adagio for Strings" are important examples that enable a more inclusive and humane understanding of art.
 
+
 <img src="./lim-taehyeon.png" alt="Abstract image of imagination" style="width:33%;" />
 
 # 이상한 변호사 우영우
@@ -63,5 +64,6 @@ OST 「상상」은 드라마 《이상한 변호사 우영우》 속 주인공 
 결국 이 DB는 한 학기 동안 수업에서 다룬 정상성, 청능주의, 질환서사, 말년 양식, Ars longa vita brevis의 내용을 하나의 질문으로 연결한다. 그 질문은 “인간의 신체적·감각적 한계는 예술을 제한하는가, 아니면 예술을 통해 새롭게 의미화될 수 있는가?”이다. 「상상」은 장애를 새로운 감각과 사고의 가능성으로 보여주고, 「Adagio for Strings」는 죽음과 상실을 애도와 공감의 시간으로 바꾸어 놓는다. 따라서 두 작품은 HYQ Portfolio의 Future Question에 대해, 질병과 장애, 고통과 죽음은 예술의 끝이 아니라 오히려 예술이 인간을 더 깊이 이해하게 만드는 출발점이 될 수 있다는 통찰을 제공한다.
 
 이러한 연결 과정에서 나는 새로운 질문도 떠올리게 되었다. 만약 AI와 보조기술이 앞으로 인간의 신체적 한계를 더 많이 보완하게 된다면, 예술에서 ‘인간적인 것’은 무엇으로 정의될 수 있을까? 기술이 인간의 감각을 확장하고 창작을 도와주는 시대에도, 예술의 핵심은 단순한 완성도나 기능이 아니라 인간의 취약성, 기억, 애도, 공감의 경험에 있을 것이다. 그러므로 미래 예술은 장애와 질병을 제거하거나 숨기는 방향이 아니라, 다양한 몸과 감각이 만들어내는 새로운 표현 방식을 인정하는 방향으로 나아가야 한다. 이 점에서 「상상」과 「Adagio for Strings」는 모두 더 포용적이고 인간적인 예술 이해를 가능하게 하는 중요한 사례라고 할 수 있다. 
+
 
 <img src="./lim-taehyeon.png" alt="Abstract image of imagination" style="width:33%;" />
